@@ -1,0 +1,12 @@
+datasets
+sentence-transformers
+faiss-cpu
+transformers
+langchain
+langchain_experimental
+huggingface-hub
+numpy
+html2text
+requests
+llama-cpp-python
+langchain-community
